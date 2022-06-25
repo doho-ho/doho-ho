@@ -2,7 +2,7 @@
 자바와 스프링 생태계의 백엔드 엔지니어 ~~준비중~~
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kodo92&count_private=true&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kodo92&layout=compact&exclude_repo=Coding-test-practice,DonghoLee)](https://github.com/anuraghazra/github-readme-stats)   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kodo92&layout=compact&exclude_repo=Coding-test-practice,DonghoLee,Library)](https://github.com/anuraghazra/github-readme-stats)   
 
 ## :sunglasses: Skils
 ---
