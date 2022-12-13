@@ -2,7 +2,7 @@
 기술이 어떻게 동작하는지 관심이 많은 주니어 백엔드 엔지니어 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kodo92&count_private=true&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kodo92&layout=compact&exclude_repo=Coding-test-practice,DonghoLee,Library)](https://github.com/anuraghazra/github-readme-stats)   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kodo92&layout=compact&exclude_repo=Coding-test-practice,DOHO,Library)](https://github.com/anuraghazra/github-readme-stats)   
 
 ## :sunglasses: Skils
 ---
