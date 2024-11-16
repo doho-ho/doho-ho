@@ -1,8 +1,8 @@
 # 도호
 돌멩이가 사람이 되기 까지. 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kodo92&count_private=true&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kodo92&layout=compact&exclude_repo=Coding-test-practice,DOHO,Library)](https://github.com/anuraghazra/github-readme-stats)   
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doho-ho&count_private=true&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doho-ho&layout=compact&exclude_repo=Coding-test-practice,DOHO,Library)](https://github.com/anuraghazra/github-readme-stats)   
 
 ## :sunglasses: Skils
 ---
